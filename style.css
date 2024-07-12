@@ -86,7 +86,6 @@ span2{
         font-style: bold;
         font-size: 2.5rem;
         color: #ff9a00;
-        filter: drop-shadow(orange 0.1rem 0.1rem 3px);
 }
 .button1{
     width: 100%;
